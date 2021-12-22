@@ -13,7 +13,8 @@ jsnarvasa.com
 
 # LinkedIn
 /in/jessesnarvasa/
-```
 
 # Tableau
 https://public.tableau.com/app/profile/jesse.narvasa
+
+```
